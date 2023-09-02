@@ -77,5 +77,5 @@ O link do repositório escolhido do Kaggle.
 -https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 O link do Github do projeto.
-
+-https://github.com/CayoRyan/ativ/blob/main/projeto%20dash.py
 
